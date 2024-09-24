@@ -7,7 +7,7 @@
 
 ## Description
 
-This project will be using pandas data frames and matplotlib in order to create 5 detailed graphs of information data that output as PNG files.
+This project will import a data set from kaggle.com regarding the popularity of programming languages over time & graph the data using pandas and matplotlib as PNG files.
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ python main.py
 
 ### Output
 
-This program should create 5 detailed .png graphs of the chosen data in the charts folder.
+This program should create 10 separate graphs of each language, and 1 combined chart of all languages over time in the charts folder as .png files.
 
 ## Authors
 
