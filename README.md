@@ -36,5 +36,5 @@ Stephen Blomberg
 Inspiration, code snippets, etc.
 * [matplotlib](https://matplotlib.org/stable/tutorials/pyplot.html)
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/overview.html)
-* [ChatGPT](https://chatgpt.com/share/66ee2839-159c-8002-8020-aaff406360b1)
+* [ChatGPT](https://chatgpt.com/share/66f2f3f2-576c-8002-a1d0-db78dc44ef34)
 * [Jason Zeller](https://www.youtube.com/@profzeller)
